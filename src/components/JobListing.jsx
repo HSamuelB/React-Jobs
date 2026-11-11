@@ -1,5 +1,6 @@
 import {useState} from 'react'
 import { HiLocationMarker } from 'react-icons/hi'
+import {Link} from 'react-router'
 
 const JobListing = ({job}) => {
 
@@ -35,12 +36,12 @@ const JobListing = ({job}) => {
                       <HiLocationMarker className='inline mb-1 mr-1'/>
                       {job.location}
                     </div>
-                    <a
-                      href="job.html"
+                    <Link
+                      to="job"
                       className="h-[36px] bg-indigo-500 hover:bg-indigo-600 text-white px-4 py-2 rounded-lg text-center text-sm"
                     >
                     Read More
-                    </a>
+                    </Link>
                   </div>
                 </div>
           </div>
