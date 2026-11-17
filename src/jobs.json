@@ -83,6 +83,1322 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "7",
+      "title": "React Front-End Developer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a React Front-End Developer in San Francisco, CA. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "San Francisco, CA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a leading technology company specializing in digital marketing and modern web engineering. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@alphaelite.co",
+        "contactPhone": "415-555-9935"
+      }
+    },
+    {
+      "id": "8",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a React.js Developer in Miami, FL. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Miami, FL",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "512-555-9279"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Senior React Developer in Dallas, TX. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Dallas, TX",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a leading technology company specializing in digital marketing and modern web engineering. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@alphaelite.co",
+        "contactPhone": "305-555-1106"
+      }
+    },
+    {
+      "id": "10",
+      "title": "React Native Developer",
+      "type": "Part-Time",
+      "description": "Join our engineering team as a React Native Developer in Chicago, IL. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Chicago, IL",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in cloud-native digital solutions for businesses of all sizes. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@dolorcloud.com",
+        "contactPhone": "617-555-2674"
+      }
+    },
+    {
+      "id": "11",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Raleigh, NC as a React.js Developer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Raleigh, NC",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Vertex Interactive",
+        "description": "Vertex Interactive is a leading technology company crafting accessible, user-centered web experiences across industries. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@vertexinteractive.io",
+        "contactPhone": "555-555-8527"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Software Engineer - Frontend",
+      "type": "Full-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Nashville, TN as a Software Engineer - Frontend and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Nashville, TN",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "NovaByte Labs",
+        "description": "NovaByte Labs is a leading technology company creating innovative mobile and web products for fast-growing startups. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@novabytelabs.com",
+        "contactPhone": "617-555-4150"
+      }
+    },
+    {
+      "id": "13",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a React.js Developer in Seattle, WA. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Seattle, WA",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "415-555-7227"
+      }
+    },
+    {
+      "id": "14",
+      "title": "React & TypeScript Engineer",
+      "type": "Full-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Raleigh, NC as a React & TypeScript Engineer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Raleigh, NC",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions INC is a leading technology company specializing in enterprise software development and digital strategy. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@portsolutions.com",
+        "contactPhone": "512-555-5374"
+      }
+    },
+    {
+      "id": "15",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a React.js Developer in Portland, OR. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Portland, OR",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "PulseWave Software",
+        "description": "PulseWave Software is a leading technology company building real-time collaboration tools and web applications. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@pulsewavesoft.com",
+        "contactPhone": "212-555-8573"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Web Application Developer (React)",
+      "type": "Full-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Dallas, TX as a Web Application Developer (React) and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Dallas, TX",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Horizon Tech Group",
+        "description": "Horizon Tech Group is a leading technology company providing modern software engineering and cloud consulting services. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@horizontech.org",
+        "contactPhone": "555-555-4752"
+      }
+    },
+    {
+      "id": "17",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Remote",
+      "description": "Join our engineering team as a Front-End Engineer (React & Redux) in Nashville, TN. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Nashville, TN",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "617-555-4483"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Principal React Engineer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a Principal React Engineer in Salt Lake City, UT. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Salt Lake City, UT",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a leading technology company specializing in scalable e-commerce platforms and retail software. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@browningtech.com",
+        "contactPhone": "512-555-9830"
+      }
+    },
+    {
+      "id": "19",
+      "title": "React & TypeScript Engineer",
+      "type": "Part-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in San Diego, CA as a React & TypeScript Engineer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "San Diego, CA",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital is a leading technology company focused on building high-performance SaaS applications and user interfaces. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@apexdigital.dev",
+        "contactPhone": "512-555-3266"
+      }
+    },
+    {
+      "id": "20",
+      "title": "React & GraphQL Developer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a React & GraphQL Developer in Miami, FL. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Miami, FL",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in cloud-native digital solutions for businesses of all sizes. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@dolorcloud.com",
+        "contactPhone": "206-555-2040"
+      }
+    },
+    {
+      "id": "21",
+      "title": "Web Application Developer (React)",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled Web Application Developer (React) to help us build scalable, customer-facing web solutions in Salt Lake City, UT. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Salt Lake City, UT",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a leading technology company specializing in scalable e-commerce platforms and retail software. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@browningtech.com",
+        "contactPhone": "555-555-2876"
+      }
+    },
+    {
+      "id": "22",
+      "title": "Software Engineer - Frontend",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Part-Time Software Engineer - Frontend in Chicago, IL. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Chicago, IL",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a leading technology company specializing in scalable e-commerce platforms and retail software. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@browningtech.com",
+        "contactPhone": "212-555-8433"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Senior React Developer",
+      "type": "Internship",
+      "description": "Join our engineering team as a Senior React Developer in San Francisco, CA. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "San Francisco, CA",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Cobalt Core",
+        "description": "Cobalt Core is a leading technology company specializing in developer tools, frontend frameworks, and API integrations. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@cobaltcore.io",
+        "contactPhone": "415-555-5889"
+      }
+    },
+    {
+      "id": "24",
+      "title": "React & GraphQL Developer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a React & GraphQL Developer in Atlanta, GA. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Atlanta, GA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Cobalt Core",
+        "description": "Cobalt Core is a leading technology company specializing in developer tools, frontend frameworks, and API integrations. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@cobaltcore.io",
+        "contactPhone": "555-555-6310"
+      }
+    },
+    {
+      "id": "25",
+      "title": "Principal React Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Principal React Engineer to join our team in Raleigh, NC. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Raleigh, NC",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a leading technology company specializing in digital marketing and modern web engineering. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@alphaelite.co",
+        "contactPhone": "512-555-2290"
+      }
+    },
+    {
+      "id": "26",
+      "title": "React.js Developer",
+      "type": "Part-Time",
+      "description": "Join our engineering team as a React.js Developer in Brooklyn, NY. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Brooklyn, NY",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Cobalt Core",
+        "description": "Cobalt Core is a leading technology company specializing in developer tools, frontend frameworks, and API integrations. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@cobaltcore.io",
+        "contactPhone": "212-555-8787"
+      }
+    },
+    {
+      "id": "27",
+      "title": "Software Engineer - Frontend",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a Software Engineer - Frontend in Philadelphia, PA. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Philadelphia, PA",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital is a leading technology company focused on building high-performance SaaS applications and user interfaces. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@apexdigital.dev",
+        "contactPhone": "512-555-6107"
+      }
+    },
+    {
+      "id": "28",
+      "title": "Web Application Developer (React)",
+      "type": "Internship",
+      "description": "We are looking for a skilled Web Application Developer (React) to help us build scalable, customer-facing web solutions in Raleigh, NC. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Raleigh, NC",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Lumina Cloud",
+        "description": "Lumina Cloud is a leading technology company developing AI-powered web dashboards and enterprise platforms. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@luminacloud.dev",
+        "contactPhone": "312-555-2982"
+      }
+    },
+    {
+      "id": "29",
+      "title": "Lead Front-End Architect",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled Lead Front-End Architect to help us build scalable, customer-facing web solutions in Chicago, IL. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Chicago, IL",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Vertex Interactive",
+        "description": "Vertex Interactive is a leading technology company crafting accessible, user-centered web experiences across industries. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@vertexinteractive.io",
+        "contactPhone": "512-555-4608"
+      }
+    },
+    {
+      "id": "30",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Senior React Developer to join our team in Miami, FL. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Miami, FL",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "617-555-2160"
+      }
+    },
+    {
+      "id": "31",
+      "title": "React & GraphQL Developer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a React & GraphQL Developer in Minneapolis, MN. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Minneapolis, MN",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NovaByte Labs",
+        "description": "NovaByte Labs is a leading technology company creating innovative mobile and web products for fast-growing startups. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@novabytelabs.com",
+        "contactPhone": "312-555-4981"
+      }
+    },
+    {
+      "id": "32",
+      "title": "Principal React Engineer",
+      "type": "Remote",
+      "description": "Exciting opportunity for a Remote Principal React Engineer in Austin, TX. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Austin, TX",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "617-555-7939"
+      }
+    },
+    {
+      "id": "33",
+      "title": "Mobile Developer (React Native)",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Mobile Developer (React Native) to join our team in Miami, FL. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Miami, FL",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Horizon Tech Group",
+        "description": "Horizon Tech Group is a leading technology company providing modern software engineering and cloud consulting services. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@horizontech.org",
+        "contactPhone": "555-555-7596"
+      }
+    },
+    {
+      "id": "34",
+      "title": "Staff Frontend Engineer",
+      "type": "Remote",
+      "description": "Join our engineering team as a Staff Frontend Engineer in Phoenix, AZ. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Phoenix, AZ",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a leading technology company specializing in digital marketing and modern web engineering. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@alphaelite.co",
+        "contactPhone": "312-555-3296"
+      }
+    },
+    {
+      "id": "35",
+      "title": "Mobile Developer (React Native)",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Mobile Developer (React Native) to join our team in Salt Lake City, UT. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Salt Lake City, UT",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Summit Web Works",
+        "description": "Summit Web Works is a leading technology company partnering with organizations to modernize their digital presence. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@summitwebworks.com",
+        "contactPhone": "312-555-2604"
+      }
+    },
+    {
+      "id": "36",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Part-Time",
+      "description": "Join our engineering team as a Front-End Engineer (React & Redux) in Dallas, TX. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Dallas, TX",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "212-555-7658"
+      }
+    },
+    {
+      "id": "37",
+      "title": "Principal React Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Principal React Engineer in Nashville, TN. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Nashville, TN",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in cloud-native digital solutions for businesses of all sizes. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@dolorcloud.com",
+        "contactPhone": "555-555-7396"
+      }
+    },
+    {
+      "id": "38",
+      "title": "React & TypeScript Engineer",
+      "type": "Remote",
+      "description": "We are looking for a skilled React & TypeScript Engineer to help us build scalable, customer-facing web solutions in Salt Lake City, UT. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Salt Lake City, UT",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital is a leading technology company focused on building high-performance SaaS applications and user interfaces. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@apexdigital.dev",
+        "contactPhone": "312-555-3536"
+      }
+    },
+    {
+      "id": "39",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled Junior React Developer to help us build scalable, customer-facing web solutions in Miami, FL. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Miami, FL",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "PulseWave Software",
+        "description": "PulseWave Software is a leading technology company building real-time collaboration tools and web applications. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@pulsewavesoft.com",
+        "contactPhone": "555-555-6138"
+      }
+    },
+    {
+      "id": "40",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled Front-End Engineer (React & Redux) to help us build scalable, customer-facing web solutions in Minneapolis, MN. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Minneapolis, MN",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Lumina Cloud",
+        "description": "Lumina Cloud is a leading technology company developing AI-powered web dashboards and enterprise platforms. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@luminacloud.dev",
+        "contactPhone": "212-555-1931"
+      }
+    },
+    {
+      "id": "41",
+      "title": "React & GraphQL Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React & GraphQL Developer to join our team in Portland, OR. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Portland, OR",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Vertex Interactive",
+        "description": "Vertex Interactive is a leading technology company crafting accessible, user-centered web experiences across industries. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@vertexinteractive.io",
+        "contactPhone": "512-555-7615"
+      }
+    },
+    {
+      "id": "42",
+      "title": "React Front-End Developer",
+      "type": "Remote",
+      "description": "We are looking for a skilled React Front-End Developer to help us build scalable, customer-facing web solutions in Washington, DC. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Washington, DC",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Vertex Interactive",
+        "description": "Vertex Interactive is a leading technology company crafting accessible, user-centered web experiences across industries. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@vertexinteractive.io",
+        "contactPhone": "555-555-2343"
+      }
+    },
+    {
+      "id": "43",
+      "title": "Mobile Developer (React Native)",
+      "type": "Part-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Washington, DC as a Mobile Developer (React Native) and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Washington, DC",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions INC is a leading technology company specializing in enterprise software development and digital strategy. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@portsolutions.com",
+        "contactPhone": "512-555-6147"
+      }
+    },
+    {
+      "id": "44",
+      "title": "Lead Front-End Architect",
+      "type": "Full-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Atlanta, GA as a Lead Front-End Architect and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Atlanta, GA",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Horizon Tech Group",
+        "description": "Horizon Tech Group is a leading technology company providing modern software engineering and cloud consulting services. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@horizontech.org",
+        "contactPhone": "312-555-6180"
+      }
+    },
+    {
+      "id": "45",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React.js Developer to join our team in Los Angeles, CA. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Los Angeles, CA",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "512-555-9288"
+      }
+    },
+    {
+      "id": "46",
+      "title": "React & TypeScript Engineer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a React & TypeScript Engineer in Raleigh, NC. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Raleigh, NC",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Lumina Cloud",
+        "description": "Lumina Cloud is a leading technology company developing AI-powered web dashboards and enterprise platforms. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@luminacloud.dev",
+        "contactPhone": "617-555-5669"
+      }
+    },
+    {
+      "id": "47",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled React Native Developer to help us build scalable, customer-facing web solutions in Dallas, TX. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Dallas, TX",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Vertex Interactive",
+        "description": "Vertex Interactive is a leading technology company crafting accessible, user-centered web experiences across industries. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@vertexinteractive.io",
+        "contactPhone": "555-555-5905"
+      }
+    },
+    {
+      "id": "48",
+      "title": "React Front-End Developer",
+      "type": "Remote",
+      "description": "We are seeking a talented React Front-End Developer to join our team in Atlanta, GA. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Atlanta, GA",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "212-555-5462"
+      }
+    },
+    {
+      "id": "49",
+      "title": "UI/UX React Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Chicago, IL as a UI/UX React Developer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Chicago, IL",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Horizon Tech Group",
+        "description": "Horizon Tech Group is a leading technology company providing modern software engineering and cloud consulting services. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@horizontech.org",
+        "contactPhone": "312-555-5114"
+      }
+    },
+    {
+      "id": "50",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Engineer (React & Redux) to join our team in San Diego, CA. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "San Diego, CA",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@teksolutions.com",
+        "contactPhone": "617-555-3143"
+      }
+    },
+    {
+      "id": "51",
+      "title": "React & TypeScript Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time React & TypeScript Engineer in Salt Lake City, UT. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Salt Lake City, UT",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "PulseWave Software",
+        "description": "PulseWave Software is a leading technology company building real-time collaboration tools and web applications. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@pulsewavesoft.com",
+        "contactPhone": "555-555-2832"
+      }
+    },
+    {
+      "id": "52",
+      "title": "React.js Developer",
+      "type": "Remote",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Atlanta, GA as a React.js Developer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Atlanta, GA",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@teksolutions.com",
+        "contactPhone": "212-555-8041"
+      }
+    },
+    {
+      "id": "53",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Raleigh, NC as a Full Stack React Developer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Raleigh, NC",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Lumina Cloud",
+        "description": "Lumina Cloud is a leading technology company developing AI-powered web dashboards and enterprise platforms. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@luminacloud.dev",
+        "contactPhone": "512-555-5088"
+      }
+    },
+    {
+      "id": "54",
+      "title": "React Front-End Developer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a React Front-End Developer in Dallas, TX. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Dallas, TX",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Vertex Interactive",
+        "description": "Vertex Interactive is a leading technology company crafting accessible, user-centered web experiences across industries. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@vertexinteractive.io",
+        "contactPhone": "512-555-3662"
+      }
+    },
+    {
+      "id": "55",
+      "title": "React Native Developer",
+      "type": "Remote",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Boston, MA as a React Native Developer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Boston, MA",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "PulseWave Software",
+        "description": "PulseWave Software is a leading technology company building real-time collaboration tools and web applications. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@pulsewavesoft.com",
+        "contactPhone": "206-555-5065"
+      }
+    },
+    {
+      "id": "56",
+      "title": "React & TypeScript Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React & TypeScript Engineer to join our team in Phoenix, AZ. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Phoenix, AZ",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Summit Web Works",
+        "description": "Summit Web Works is a leading technology company partnering with organizations to modernize their digital presence. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@summitwebworks.com",
+        "contactPhone": "312-555-4644"
+      }
+    },
+    {
+      "id": "57",
+      "title": "Junior React Developer",
+      "type": "Remote",
+      "description": "Join our engineering team as a Junior React Developer in Salt Lake City, UT. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Salt Lake City, UT",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a leading technology company specializing in scalable e-commerce platforms and retail software. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@browningtech.com",
+        "contactPhone": "512-555-1387"
+      }
+    },
+    {
+      "id": "58",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in San Francisco, CA as a Junior React Developer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "San Francisco, CA",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Cobalt Core",
+        "description": "Cobalt Core is a leading technology company specializing in developer tools, frontend frameworks, and API integrations. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@cobaltcore.io",
+        "contactPhone": "617-555-9346"
+      }
+    },
+    {
+      "id": "59",
+      "title": "Web Application Developer (React)",
+      "type": "Part-Time",
+      "description": "We are seeking a talented Web Application Developer (React) to join our team in Dallas, TX. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Dallas, TX",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@teksolutions.com",
+        "contactPhone": "305-555-3925"
+      }
+    },
+    {
+      "id": "60",
+      "title": "React & TypeScript Engineer",
+      "type": "Full-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Los Angeles, CA as a React & TypeScript Engineer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Los Angeles, CA",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions INC is a leading technology company specializing in enterprise software development and digital strategy. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@portsolutions.com",
+        "contactPhone": "206-555-9379"
+      }
+    },
+    {
+      "id": "61",
+      "title": "React Front-End Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React Front-End Developer to join our team in Washington, DC. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Washington, DC",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a leading technology company specializing in scalable e-commerce platforms and retail software. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@browningtech.com",
+        "contactPhone": "206-555-1027"
+      }
+    },
+    {
+      "id": "62",
+      "title": "React & GraphQL Developer",
+      "type": "Remote",
+      "description": "Join our engineering team as a React & GraphQL Developer in Dallas, TX. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Dallas, TX",
+      "salary": "Over $200K",
+      "company": {
+        "name": "PulseWave Software",
+        "description": "PulseWave Software is a leading technology company building real-time collaboration tools and web applications. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@pulsewavesoft.com",
+        "contactPhone": "617-555-8066"
+      }
+    },
+    {
+      "id": "63",
+      "title": "React.js Developer",
+      "type": "Remote",
+      "description": "We are seeking a talented React.js Developer to join our team in Chicago, IL. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Chicago, IL",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions INC is a leading technology company specializing in enterprise software development and digital strategy. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@portsolutions.com",
+        "contactPhone": "305-555-9308"
+      }
+    },
+    {
+      "id": "64",
+      "title": "UI/UX React Developer",
+      "type": "Part-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Chicago, IL as a UI/UX React Developer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Chicago, IL",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "PulseWave Software",
+        "description": "PulseWave Software is a leading technology company building real-time collaboration tools and web applications. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@pulsewavesoft.com",
+        "contactPhone": "212-555-4143"
+      }
+    },
+    {
+      "id": "65",
+      "title": "Mobile Developer (React Native)",
+      "type": "Part-Time",
+      "description": "Join our engineering team as a Mobile Developer (React Native) in Nashville, TN. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Nashville, TN",
+      "salary": "Over $200K",
+      "company": {
+        "name": "PulseWave Software",
+        "description": "PulseWave Software is a leading technology company building real-time collaboration tools and web applications. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@pulsewavesoft.com",
+        "contactPhone": "305-555-7653"
+      }
+    },
+    {
+      "id": "66",
+      "title": "Software Engineer - Frontend",
+      "type": "Remote",
+      "description": "Exciting opportunity for a Remote Software Engineer - Frontend in Denver, CO. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Denver, CO",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a leading technology company specializing in digital marketing and modern web engineering. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@alphaelite.co",
+        "contactPhone": "617-555-8618"
+      }
+    },
+    {
+      "id": "67",
+      "title": "Frontend Systems Engineer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a Frontend Systems Engineer in Austin, TX. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Austin, TX",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Stratos Systems",
+        "description": "Stratos Systems is a leading technology company delivering next-generation fintech and data visualization tools. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@stratossystems.net",
+        "contactPhone": "415-555-5649"
+      }
+    },
+    {
+      "id": "68",
+      "title": "React & GraphQL Developer",
+      "type": "Part-Time",
+      "description": "Join our engineering team as a React & GraphQL Developer in Los Angeles, CA. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Los Angeles, CA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "305-555-4680"
+      }
+    },
+    {
+      "id": "69",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled Junior React Developer to help us build scalable, customer-facing web solutions in Miami, FL. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Miami, FL",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Stratos Systems",
+        "description": "Stratos Systems is a leading technology company delivering next-generation fintech and data visualization tools. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@stratossystems.net",
+        "contactPhone": "415-555-8461"
+      }
+    },
+    {
+      "id": "70",
+      "title": "Mobile Developer (React Native)",
+      "type": "Remote",
+      "description": "Exciting opportunity for a Remote Mobile Developer (React Native) in Washington, DC. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Washington, DC",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "PulseWave Software",
+        "description": "PulseWave Software is a leading technology company building real-time collaboration tools and web applications. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@pulsewavesoft.com",
+        "contactPhone": "312-555-7547"
+      }
+    },
+    {
+      "id": "71",
+      "title": "Lead Front-End Architect",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Lead Front-End Architect in Boston, MA. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Boston, MA",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Cobalt Core",
+        "description": "Cobalt Core is a leading technology company specializing in developer tools, frontend frameworks, and API integrations. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@cobaltcore.io",
+        "contactPhone": "512-555-3881"
+      }
+    },
+    {
+      "id": "72",
+      "title": "React & GraphQL Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented React & GraphQL Developer to join our team in Dallas, TX. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Dallas, TX",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Lumina Cloud",
+        "description": "Lumina Cloud is a leading technology company developing AI-powered web dashboards and enterprise platforms. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@luminacloud.dev",
+        "contactPhone": "312-555-3184"
+      }
+    },
+    {
+      "id": "73",
+      "title": "Frontend Systems Engineer",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Part-Time Frontend Systems Engineer in Dallas, TX. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Dallas, TX",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions INC is a leading technology company specializing in enterprise software development and digital strategy. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@portsolutions.com",
+        "contactPhone": "206-555-9976"
+      }
+    },
+    {
+      "id": "74",
+      "title": "Frontend Systems Engineer",
+      "type": "Remote",
+      "description": "Join our engineering team as a Frontend Systems Engineer in Minneapolis, MN. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Minneapolis, MN",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a leading technology company specializing in scalable e-commerce platforms and retail software. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@browningtech.com",
+        "contactPhone": "305-555-9540"
+      }
+    },
+    {
+      "id": "75",
+      "title": "Principal React Engineer",
+      "type": "Full-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in San Francisco, CA as a Principal React Engineer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "San Francisco, CA",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "512-555-5451"
+      }
+    },
+    {
+      "id": "76",
+      "title": "Staff Frontend Engineer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a Staff Frontend Engineer in Dallas, TX. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Dallas, TX",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in cloud-native digital solutions for businesses of all sizes. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@dolorcloud.com",
+        "contactPhone": "512-555-7275"
+      }
+    },
+    {
+      "id": "77",
+      "title": "Full Stack React Developer",
+      "type": "Part-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Brooklyn, NY as a Full Stack React Developer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Brooklyn, NY",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital is a leading technology company focused on building high-performance SaaS applications and user interfaces. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@apexdigital.dev",
+        "contactPhone": "312-555-7812"
+      }
+    },
+    {
+      "id": "78",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled Front-End Engineer (React & Redux) to help us build scalable, customer-facing web solutions in San Diego, CA. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "San Diego, CA",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Lumina Cloud",
+        "description": "Lumina Cloud is a leading technology company developing AI-powered web dashboards and enterprise platforms. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@luminacloud.dev",
+        "contactPhone": "555-555-7232"
+      }
+    },
+    {
+      "id": "79",
+      "title": "Principal React Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Principal React Engineer in Raleigh, NC. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Raleigh, NC",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Cobalt Core",
+        "description": "Cobalt Core is a leading technology company specializing in developer tools, frontend frameworks, and API integrations. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@cobaltcore.io",
+        "contactPhone": "206-555-9818"
+      }
+    },
+    {
+      "id": "80",
+      "title": "Software Engineer - Frontend",
+      "type": "Part-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Seattle, WA as a Software Engineer - Frontend and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Seattle, WA",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a leading technology company specializing in digital marketing and modern web engineering. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@alphaelite.co",
+        "contactPhone": "206-555-8956"
+      }
+    },
+    {
+      "id": "81",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Senior React Developer in Nashville, TN. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Nashville, TN",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Summit Web Works",
+        "description": "Summit Web Works is a leading technology company partnering with organizations to modernize their digital presence. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@summitwebworks.com",
+        "contactPhone": "212-555-9751"
+      }
+    },
+    {
+      "id": "82",
+      "title": "Senior React Developer",
+      "type": "Remote",
+      "description": "We are seeking a talented Senior React Developer to join our team in Washington, DC. The ideal candidate will have strong skills in HTML, CSS, JavaScript, and TypeScript, with hands-on experience building modern web applications using React.",
+      "location": "Washington, DC",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Horizon Tech Group",
+        "description": "Horizon Tech Group is a leading technology company providing modern software engineering and cloud consulting services. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@horizontech.org",
+        "contactPhone": "415-555-8022"
+      }
+    },
+    {
+      "id": "83",
+      "title": "Full Stack React Developer",
+      "type": "Remote",
+      "description": "Exciting opportunity for a Remote Full Stack React Developer in Portland, OR. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Portland, OR",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a leading technology company specializing in scalable e-commerce platforms and retail software. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@browningtech.com",
+        "contactPhone": "617-555-4467"
+      }
+    },
+    {
+      "id": "84",
+      "title": "Frontend Systems Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Frontend Systems Engineer in Nashville, TN. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Nashville, TN",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Cobalt Core",
+        "description": "Cobalt Core is a leading technology company specializing in developer tools, frontend frameworks, and API integrations. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@cobaltcore.io",
+        "contactPhone": "305-555-2341"
+      }
+    },
+    {
+      "id": "85",
+      "title": "Principal React Engineer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a Principal React Engineer in Dallas, TX. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Dallas, TX",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions INC is a leading technology company specializing in enterprise software development and digital strategy. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@portsolutions.com",
+        "contactPhone": "415-555-1659"
+      }
+    },
+    {
+      "id": "86",
+      "title": "Senior React Developer",
+      "type": "Remote",
+      "description": "Join our engineering team as a Senior React Developer in Austin, TX. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Austin, TX",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Vertex Interactive",
+        "description": "Vertex Interactive is a leading technology company crafting accessible, user-centered web experiences across industries. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@vertexinteractive.io",
+        "contactPhone": "512-555-3068"
+      }
+    },
+    {
+      "id": "87",
+      "title": "Principal React Engineer",
+      "type": "Part-Time",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Washington, DC as a Principal React Engineer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Washington, DC",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Stratos Systems",
+        "description": "Stratos Systems is a leading technology company delivering next-generation fintech and data visualization tools. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@stratossystems.net",
+        "contactPhone": "617-555-3749"
+      }
+    },
+    {
+      "id": "88",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "We are looking for a skilled React Front-End Developer to help us build scalable, customer-facing web solutions in Portland, OR. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Portland, OR",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "555-555-6111"
+      }
+    },
+    {
+      "id": "89",
+      "title": "Web Application Developer (React)",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a Web Application Developer (React) in Austin, TX. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Austin, TX",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Vertex Interactive",
+        "description": "Vertex Interactive is a leading technology company crafting accessible, user-centered web experiences across industries. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@vertexinteractive.io",
+        "contactPhone": "415-555-5941"
+      }
+    },
+    {
+      "id": "90",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "We are looking for a skilled React Front-End Developer to help us build scalable, customer-facing web solutions in Washington, DC. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Washington, DC",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions INC is a leading technology company specializing in enterprise software development and digital strategy. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@portsolutions.com",
+        "contactPhone": "206-555-7071"
+      }
+    },
+    {
+      "id": "91",
+      "title": "React.js Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time React.js Developer in Chicago, IL. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Chicago, IL",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Summit Web Works",
+        "description": "Summit Web Works is a leading technology company partnering with organizations to modernize their digital presence. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@summitwebworks.com",
+        "contactPhone": "312-555-2729"
+      }
+    },
+    {
+      "id": "92",
+      "title": "Mobile Developer (React Native)",
+      "type": "Internship",
+      "description": "Join our engineering team as a Mobile Developer (React Native) in Salt Lake City, UT. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Salt Lake City, UT",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital is a leading technology company focused on building high-performance SaaS applications and user interfaces. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@apexdigital.dev",
+        "contactPhone": "305-555-9817"
+      }
+    },
+    {
+      "id": "93",
+      "title": "Principal React Engineer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a Principal React Engineer in Washington, DC. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Washington, DC",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions INC is a leading technology company specializing in enterprise software development and digital strategy. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@portsolutions.com",
+        "contactPhone": "415-555-5569"
+      }
+    },
+    {
+      "id": "94",
+      "title": "Frontend Systems Engineer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Frontend Systems Engineer in Salt Lake City, UT. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Salt Lake City, UT",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Vertex Interactive",
+        "description": "Vertex Interactive is a leading technology company crafting accessible, user-centered web experiences across industries. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@vertexinteractive.io",
+        "contactPhone": "617-555-1470"
+      }
+    },
+    {
+      "id": "95",
+      "title": "Principal React Engineer",
+      "type": "Remote",
+      "description": "Are you passionate about modern frontend architecture? Join our team in Portland, OR as a Principal React Engineer and work on impactful products alongside a collaborative and supportive engineering group.",
+      "location": "Portland, OR",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a leading technology company specializing in digital marketing and modern web engineering. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@alphaelite.co",
+        "contactPhone": "305-555-6576"
+      }
+    },
+    {
+      "id": "96",
+      "title": "React & TypeScript Engineer",
+      "type": "Remote",
+      "description": "We are looking for a skilled React & TypeScript Engineer to help us build scalable, customer-facing web solutions in San Francisco, CA. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "San Francisco, CA",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@teksolutions.com",
+        "contactPhone": "512-555-2402"
+      }
+    },
+    {
+      "id": "97",
+      "title": "Lead Front-End Architect",
+      "type": "Part-Time",
+      "description": "Join our engineering team as a Lead Front-End Architect in Minneapolis, MN. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "Minneapolis, MN",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Cobalt Core",
+        "description": "Cobalt Core is a leading technology company specializing in developer tools, frontend frameworks, and API integrations. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@cobaltcore.io",
+        "contactPhone": "312-555-9041"
+      }
+    },
+    {
+      "id": "98",
+      "title": "Frontend Systems Engineer",
+      "type": "Part-Time",
+      "description": "Exciting opportunity for a Part-Time Frontend Systems Engineer in Brooklyn, NY. You will architect reusable component libraries, optimize application state, and collaborate closely with product designers and backend engineers.",
+      "location": "Brooklyn, NY",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a leading technology company specializing in digital marketing and modern web engineering. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@alphaelite.co",
+        "contactPhone": "512-555-6016"
+      }
+    },
+    {
+      "id": "99",
+      "title": "React & Next.js Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled React & Next.js Developer to help us build scalable, customer-facing web solutions in Philadelphia, PA. Strong proficiency in React hooks, state management, and REST/GraphQL APIs is highly desirable.",
+      "location": "Philadelphia, PA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Apex Digital",
+        "description": "Apex Digital is a leading technology company focused on building high-performance SaaS applications and user interfaces. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@apexdigital.dev",
+        "contactPhone": "617-555-6764"
+      }
+    },
+    {
+      "id": "100",
+      "title": "Frontend Systems Engineer",
+      "type": "Full-Time",
+      "description": "Join our engineering team as a Frontend Systems Engineer in San Francisco, CA. We are looking for a motivated developer with a passion for crafting responsive, accessible, and high-performance user interfaces.",
+      "location": "San Francisco, CA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a leading technology company specializing in digital design and creative web development. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "careers@veneersolutions.io",
+        "contactPhone": "617-555-2958"
+      }
     }
   ]
 }
